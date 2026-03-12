@@ -75,7 +75,7 @@ if st.button("Generate Diagnostic Report", type="primary", use_container_width=T
 st.divider()
 
 #Model use cases
-st.subheader("🚀 Real-World Applications")
+st.subheader("Real-World Applications of the project")
 st.markdown("""
 How this model can be utilized in a clinical or research setting:
 1.  **Clinical Decision Support:** Helping doctors identify high-risk patients who need early intervention.
