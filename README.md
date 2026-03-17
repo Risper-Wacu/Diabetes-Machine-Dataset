@@ -1,8 +1,6 @@
-# diabetes-dataset-mlearning.
-https://diabetes-machine-dataset.onrender.com
 # Diabetes Disease Progression Predictor
 This is an end-to-end Machine Learning project that predicts disease progression in diabetes patients using physiological markers. This project includes data analysis, visualization of feature interactions, and a deployed web application.
-### Check out the interactive web app here: [Diabetes Disease Progression Predictor on Render](https://diabetes-machine-dataset.onrender.com)
+### Check out the interactive web app here: [Diabetes Disease Progression Predictor on Render] (https://diabetes-machine-dataset.onrender.com)
 This project utilizes the Scikit-Learn Diabetes dataset (442 samples) to build a Linear Regression model. 
 
 ### Key Insights:
